@@ -1,2 +1,2 @@
-# Roll-a-Dice
-This is a classic “roll the dice” program; the application rolls a dice for the user.
+# Roll-a-Die
+This is a classic “roll the die” program; the application rolls a die for the user and shows a visual.
